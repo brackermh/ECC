@@ -96,4 +96,4 @@ end
 PercentHam = (RightHam / total) * 100;
 disp(ArrayHam);  
 disp(PercentHam);
-writecell(ArrayHam, 'ArrayHam5.csv');
+writecell(ArrayHam, 'ArrayHam.csv');
